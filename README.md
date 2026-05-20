@@ -70,14 +70,6 @@ AI-assisted Android productivity system that detects distractions and helps user
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YashviG99&theme=tokyonight"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
